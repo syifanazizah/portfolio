@@ -1,5 +1,4 @@
 - belajar html
 - belajar css
 - belajar javascript
-- belajar db
 - belajar backend
